@@ -24,7 +24,7 @@ else
 				done
 			
 			rm v.txt
-echo -e "\n\e[92mFollow Me On\e[0m" "\e[34mTwitter\e[0m" "\e[5m\e[93m@darklotuskdb\e[0m" "\e[92mHappy Hacking\e[0m"
+echo -e "\n\e[92mFollow Me On\e[0m" "\e[34mwho i am ? \e[0m" "\e[5m\e[93m@trhacknon\e[0m" "\e[92mHappy Hacking\e[0m"
 echo -e "\n\e[1mGood Day\e[0m\n"		  
 		done
 fi | tee output.txt

@@ -12,7 +12,7 @@ This tool will grap all target subdomains from shodan that are using AsgularJS T
 ```
 
 ```
-git clone https://github.com/darklotuskdb/ssti-xss-finder.git && cd ssti-xss-finder && chmod +x *.sh
+git clone https://github.com/trhacknon/ssti-xss-finder.git && cd ssti-xss-finder && chmod +x *.sh
 ```
 
 ## Usage
@@ -29,14 +29,14 @@ Linux
 * https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/XSS%20in%20Angular.md
 
 ## Donation
-[BuyMeACoffee](https://www.buymeacoffee.com/darklotus) If you like my work
+[BuyMeACoffee](https://www.buymeacoffee.com/) If you like my work
 
 ## About Me
 
-* **DarkLotus** - *Cyber Security Researcher* - [DarkLotusKDB](https://darklotuskdb.github.io/KDBhati/)
+* **DarkLotus** - *Cyber Security Researcher* - [trhacknon](https://trhacknon.github.io/KDBhati/)
 
 ### Social Media Handles
-* [Twitter](https://twitter.com/darklotuskdb)
+* [Twitter](https://twitter.com/)
 * [Medium](https://darklotus.medium.com/)
-* [Linkedin](https://www.linkedin.com/in/kamaldeepbhati/)
-* [Instagram](https://www.instagram.com/kamaldeepbhati/)
+* [Linkedin](https://www.linkedin.com/in/)
+* [Instagram](https://www.instagram.com/)

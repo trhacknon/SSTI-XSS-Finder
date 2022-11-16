@@ -33,7 +33,7 @@ Linux
 
 ## About Me
 
-* **DarkLotus** - *Cyber Security Researcher* - [trhacknon](https://trhacknon.github.io/KDBhati/)
+* **trhacknon** - *Cyber Security Researcher* - [trhacknon](https://trhacknon.github.io/KDBhati/)
 
 ### Social Media Handles
 * [Twitter](https://twitter.com/)
